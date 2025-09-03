@@ -1,9 +1,9 @@
-## Hi there 👋 
+## Hi👋 I,m Srushti Sanjay Shiraganvi
 
 
 # 🚀 About Me  
 
-I’m a Java Full Stack Developer passionate about building scalable, secure, and user-friendly applications. With experience in **Java, Spring Boot, React, Flutter, and Python**, I enjoy working across both backend and frontend while continuously exploring AI/ML and DevOps tools.  
+I’m a Java Full Stack Developer passionate about building scalable, secure, and user-friendly applications. With experience in **Java, Spring Boot, React, and DevOps**, I enjoy working across both backend and frontend while continuously exploring AI/ML and DevOps tools.  
 
 🔭 **Currently Learning:** React, Spring Boot, Microservices, DevOps (Docker, Kubernetes, Power BI)  
 💡 **Interested in:** Scalable applications, AI-powered solutions, cloud-native systems, and productivity apps  
