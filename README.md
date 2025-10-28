@@ -22,7 +22,6 @@ I’m a Java Full Stack Developer passionate about building scalable, secure, an
 
 ### Frontend Development  
 - React.js  
-- Flutter & Dart  
 - HTML, CSS, JavaScript  
 
 ### Databases  
