@@ -47,6 +47,30 @@ I’m a Java Full Stack Developer passionate about building scalable, secure, an
 
 ---
 
+
+### 📈 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srushtisshiragavi&show_icons=true&theme=tokyonight&hide_rank=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtisshiragavi&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🧩 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtisshiragavi&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🚀 Top Contributed Repositories  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=srushtisshiragavi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
 💡 I enjoy solving real-world problems with code, building apps that improve productivity, and exploring new technologies in **AI, cloud, and full-stack development**.  
 
 📌 Let’s innovate and create impactful solutions together! 🚀  
