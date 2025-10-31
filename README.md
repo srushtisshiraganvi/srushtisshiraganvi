@@ -29,7 +29,7 @@ I’m a Java Full Stack Developer passionate about building scalable, secure, an
 - Oracle (SQL & PL/SQL)  
 
 ### DevOps & Cloud  
-- Basics of Docker, Kubernetes (Learning)  
+- Basics of Docker, Kubernetes   
 - CI/CD (GitHub Actions – Exploring)  
 - Power BI (Data Visualization)  
 - AWS (Basics)  
