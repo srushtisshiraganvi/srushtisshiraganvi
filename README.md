@@ -43,7 +43,9 @@ I’m a Java Full Stack Developer passionate about building scalable, secure, an
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/srushti-sanjay-shiraganvi-a0244a27a)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/srushtisshiraganvi)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/srushtisshiraganvi)
+[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://app.docker.com/accounts/srushtisshiragavi)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srushtishiragavi@gmail.com)
 
 ---
 
