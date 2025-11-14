@@ -5,7 +5,6 @@
 
 I’m a Java Full Stack Developer passionate about building scalable, secure, and user-friendly applications. With experience in **Java, Spring Boot, React, and DevOps**, I enjoy working across both backend and frontend while continuously exploring AI/ML and DevOps tools.  
 
-🔭 **Currently Learning:** React, Spring Boot, Microservices, DevOps (Docker, Kubernetes, Power BI)  
 💡 **Interested in:** Scalable applications, AI-powered solutions, cloud-native systems, and productivity apps  
 💬 **Ask Me About:** Java, Spring Boot, React, Python, REST APIs, SQL/PLSQL  
 📫 **How to Reach Me:** srushtishiragavi@gmail.com  
@@ -32,12 +31,11 @@ I’m a Java Full Stack Developer passionate about building scalable, secure, an
 - Basics of Docker, Kubernetes   
 - CI/CD (GitHub Actions – Exploring)  
 - Power BI (Data Visualization)  
-- AWS (Basics)  
+- AWS 
 
 ### Tools & Other Technologies  
 - Git & GitHub  
 - Postman (API Testing)  
-- Jupyter Notebook  
 
 ---
 
